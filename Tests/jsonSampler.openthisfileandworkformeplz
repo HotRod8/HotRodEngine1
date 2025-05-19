@@ -1,0 +1,17 @@
+{
+    "int1": 12,
+    "int2": 2,
+    "floatchild": {
+         "stringchild": {
+             "strings": [
+                 "abc",
+                 "xyz",
+                 "Hello",
+                 "Jeremy!"
+             ]
+         },
+         "float1": 28.791,
+         "float2": 78.0
+    },
+    "int3": 250
+}
